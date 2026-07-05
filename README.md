@@ -1,4 +1,4 @@
-# Hi there, I'm Sneha! 👋
+# Hi there, I'm isneha! 👋
 
 Welcome to my profile! I am a passionate developer focused on building interactive web applications, solid APIs, and data-driven solutions.
 
@@ -9,8 +9,6 @@ Welcome to my profile! I am a passionate developer focused on building interacti
 You can reach me via email for collaborations or queries:
 
 <a href="mailto:chherkiisneha@gmail.com"><img src="https://img.shields.io/badge/Email-chherkiisneha%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-📧 **Direct Email Link:** <a href="mailto:chherkiisneha@gmail.com">chherkiisneha@gmail.com</a>
 
 ---
 
@@ -41,6 +39,6 @@ You can reach me via email for collaborations or queries:
 ## 📊 GitHub Analytics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chherkiisneha59&show_icons=true&theme=radial" alt="Sneha's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chherkiisneha59&show_icons=true&theme=radial" alt="isneha's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chherkiisneha59&layout=compact&theme=radial" alt="Top Languages" height="180px" />
 </div>
