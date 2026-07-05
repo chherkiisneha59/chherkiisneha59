@@ -4,7 +4,7 @@ Welcome to my profile! I am a passionate developer focused on building interacti
 
 ---
 
-## 📬 Connect with Me
+## 📬 Social
 
 You can reach me via email for collaborations or queries:
 
