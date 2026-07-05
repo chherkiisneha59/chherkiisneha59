@@ -33,12 +33,3 @@ You can reach me via email for collaborations or queries:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chherkiisneha59&show_icons=true&theme=radial" alt="isneha's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chherkiisneha59&layout=compact&theme=radial" alt="Top Languages" height="180px" />
-</div>
