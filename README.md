@@ -1,4 +1,4 @@
-# Hi there, I'm isneha! 👋
+# Hi there, I'm Isneha! 👋
 
 Welcome to my profile! I am a passionate developer focused on building interactive web applications, solid APIs, and data-driven solutions.
 
