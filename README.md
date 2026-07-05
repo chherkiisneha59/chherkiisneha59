@@ -35,12 +35,3 @@ You can reach me via email or LinkedIn for collaborations or queries:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=00C7B7)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 📁 Featured Projects
-
-* **[Student Management System](https://github.com/chherkiisneha59/StudentMangement)**
-  * A full-stack academic administration system built with Spring Boot, MySQL, and Bootstrap.
-* **[SkyCast](https://github.com/chherkiisneha59/SkyCast)**
-  * A beautiful responsive weather forecast web application.
