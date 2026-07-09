@@ -1,6 +1,7 @@
 # Hi there, I'm Isneha! 👋
 
-Welcome to my profile! I am a passionate developer focused on building interactive and scalable web applications, solid APIs, and data-driven solutions.
+Web Developer passionate about creating fast and visually appealing websites and enjoys crafting modern web applications with clean code and intuitive user experience.
+
 
 -Responsive Design
 
