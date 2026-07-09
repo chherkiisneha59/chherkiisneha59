@@ -3,7 +3,10 @@
 Welcome to my profile! I am a passionate developer focused on building interactive and scalable web applications, solid APIs, and data-driven solutions.
 
 -Responsive Design
+
 -Frontend Development 
+
+-Backend Development
 
 ---
 
