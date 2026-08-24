@@ -9,6 +9,8 @@ Web Developer passionate about creating fast and visually appealing websites and
 
 -Backend Development
 
+-Database
+
 -
 
 ---
