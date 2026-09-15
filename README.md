@@ -1,15 +1,14 @@
 # Hi there, I'm Isneha! 👋
 
-Web Developer passionate about creating fast and visually appealing websites and enjoys crafting modern web applications with clean code and intuitive user experience.
+### 🚀 Full-Stack Developer & Digital Experience Crafter
 
+> *Transforming ideas into high-performance web applications with clean code, intuitive UI/UX, and robust architecture.*
 
--Responsive Design
-
--Frontend Development 
-
--Backend Development
-
--Database
+⚡ **What I Do**:
+- 🌐 **Full-Stack Engineering** (Node.js, Express, Databases)
+- 🎨 **Modern Frontend Interfaces** (HTML5, CSS3, JavaScript)
+- 📱 **Responsive & Intuitive Web Design**
+- ☁️ **Cloud Deployment & DevOps** (Vercel, Netlify, Firebase)
 
 ---
 
