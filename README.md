@@ -5,10 +5,10 @@
 > *Transforming ideas into high-performance web applications with clean code, intuitive UI/UX, and robust architecture.*
 
 ⚡ **What I Do**:
-- 🌐 **Full-Stack Engineering** (Node.js, Express, Databases)
-- 🎨 **Modern Frontend Interfaces** (HTML5, CSS3, JavaScript)
+- 🌐 **Full-Stack Engineering** (Node.js, Express, Databases-MySQL,PostgreSQL,MongoDb)
+- 🎨 **Modern Frontend Interfaces** (HTML5, CSS3, JavaScript,React,Tailwind CSS)
 - 📱 **Responsive & Intuitive Web Design**
-- ☁️ **Cloud Deployment & DevOps** (Vercel, Netlify, Firebase)
+- ☁️ **Cloud Deployment & DevOps** (Vercel, Netlify, Firebase,Supabase,Render,Railway)
 
 ---
 
