@@ -34,7 +34,7 @@
 isneha:
   role: "Full-Stack Developer & Software Engineer"
   passions: ["Web Development", "UI/UX Design", "Scalable Systems", "Clean Architecture"]
-  current_focus: ["React", "Tailwind CSS", "Node.js Microservices", "Cloud Deployment"]
+  current_focus: ["React", "Tailwind CSS", "Node.js", "Cloud Deployment"]
   location: "India"
 ```
 
