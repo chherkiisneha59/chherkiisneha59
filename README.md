@@ -34,11 +34,11 @@
 isneha:
   role: "Full-Stack Developer & Software Engineer"
   passions: ["Web Development", "UI/UX Design", "Scalable Systems", "Clean Architecture"]
-  current_focus: ["React", "Tailwind CSS", "Node.js", "Cloud Deployment"]
+  current_focus: ["React", "Tailwind CSS", "Node.js"]
   location: "India"
 ```
 
-- 🌐 **Full-Stack Engineering**: Building end-to-end web applications with Node.js, Express, and modern databases.
+- 🌐 **Full-Stack Engineering**: Building end-to-end web applications with Node.js and modern databases.
 - 🎨 **Modern Frontend Interfaces**: Designing sleek, responsive, and interactive user interfaces using React & Tailwind CSS.
 - 📱 **Responsive & Intuitive UX**: Crafting mobile-first layouts with smooth micro-interactions.
 - ☁️ **Cloud & DevOps**: Deploying & orchestrating apps seamlessly on Vercel, Netlify, Render, Railway, Firebase & Supabase.
@@ -66,7 +66,6 @@ isneha:
 ### ⚙️ Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
