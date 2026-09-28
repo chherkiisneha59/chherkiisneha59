@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Isneha+Chherki+👋;Full-Stack+Developer;Digital+Experience+Crafter;React+%7C+Node.js+%7C+Python" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/chherkiisneha59">
-    <img src="https://komarev.com/ghpvc/?username=chherkiisneha59&style=flat-square&color=38b2ac&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
 
 <p align="center">
   <b>✨ Transforming ideas into high-performance web applications with clean code, intuitive UI/UX, and robust architecture. ✨</b>
