@@ -22,22 +22,6 @@
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🚀 About Me
-
-```yaml
-isneha:
-  role: "Full-Stack Developer & Software Engineer"
-  passions: ["Web Development", "UI/UX Design", "Scalable Systems", "Clean Architecture"]
-  current_focus: ["React", "Tailwind CSS", "Node.js"]
-  location: "India"
-```
-
-- 🌐 **Full-Stack Engineering**: Building end-to-end web applications with Node.js and modern databases.
-- 🎨 **Modern Frontend Interfaces**: Designing sleek, responsive, and interactive user interfaces using React & Tailwind CSS.
-- 📱 **Responsive & Intuitive UX**: Crafting mobile-first layouts with smooth micro-interactions.
-- ☁️ **Cloud & DevOps**: Deploying & orchestrating apps seamlessly on Vercel, Netlify, Render, Railway, Firebase & Supabase.
-
 ---
 
 ## 🛠️ Tech Stack & Toolkit
