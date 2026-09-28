@@ -3,9 +3,6 @@
 </h1>
 
 
-<p align="center">
-  <b>✨ Transforming ideas into high-performance web applications with clean code, intuitive UI/UX, and robust architecture. ✨</b>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isneha-chherki-963375212/" target="_blank">
