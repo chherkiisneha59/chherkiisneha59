@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Isneha+Chherki+👋;Full-Stack+Developer;Digital+Experience+Crafter;React+%7C+Node.js+%7C+Python" alt="Typing SVG" />
+  <a href="https://github.com/chherkiisneha59">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=680&lines=%E2%9C%A8+Hi+there!+I'm+Isneha+Chherki+%F0%9F%91%8B;%E2%9A%A1+Full-Stack+Software+Developer;%F0%9F%9A%80+Digital+Experience+Crafter;%F0%9F%92%BB+React+%E2%80%A2+Node.js+%E2%80%A2+Python;%F0%9F%94%A5+Crafting+High-Performance+Web+Apps" alt="Typing SVG" />
+  </a>
 </h1>
 
 
