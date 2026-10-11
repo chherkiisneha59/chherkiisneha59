@@ -59,14 +59,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🎭 **StageLink** | Modern stage & event collaboration platform featuring responsive UI, dynamic routing, and modular components. | `React 19` `Vite` `Tailwind` `Lucide` | [Repository](https://github.com/chherkiisneha59/stagelink-reactapp) |
-
----
-
 <p align="center">
   <sub>⚡ Designed with ❤️ by Isneha Chherki</sub>
 </p>
