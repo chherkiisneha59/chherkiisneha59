@@ -44,14 +44,6 @@
 
 ---
 
-## 📊 Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chherkiisneha59&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Contributions, Pull Requests & Issues" />
-</p>
-
----
-
 <p align="center">
   <sub>⚡ Designed with ❤️ by Isneha Chherki</sub>
 </p>
