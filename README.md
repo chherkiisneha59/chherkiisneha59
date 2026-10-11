@@ -1,4 +1,22 @@
-## 🌐 Socials
+<div align="center">
+
+  <!-- Hero Typing Header (No Name, Pure Engineering Focus) -->
+  <a href="https://github.com/chherkiisneha59">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=680&lines=%E2%9A%A1+Full-Stack+Software+Developer;%F0%9F%9A%80+Crafting+Scalable+Web+Experiences;%F0%9F%92%BB+React+%E2%80%A2+Node.js+%E2%80%A2+Modern+Databases;%F0%9F%94%A5+High-Performance+Architecture+%26+Clean+Code" alt="Developer Role Typing" />
+  </a>
+
+  <!-- Tech Focus Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-38B2AC?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Frontend-React%20%E2%80%A2%20Tailwind-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
+    <img src="https://img.shields.io/badge/Backend-Node.js%20%E2%80%A2%20Cloud-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Backend" />
+  </p>
+
+</div>
+
+---
+
+## 🌐 Connect & Network
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isneha-chherki-963375212/" target="_blank">
@@ -16,28 +34,54 @@
 
 ## 🛠️ Tech Stack & Toolkit
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<div align="center">
+
+### 💻 Languages
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### ⚛️ Frontend & UI Engineering
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+### ⚙️ Backend, APIs & Databases
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+### 🚀 Cloud, Deployment & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🎭 **StageLink** | Modern stage & event collaboration platform featuring responsive UI, dynamic routing, and modular components. | `React 19` `Vite` `Tailwind` `Lucide` | [Repository](https://github.com/chherkiisneha59/stagelink-reactapp) |
 
 ---
 
