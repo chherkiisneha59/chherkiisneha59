@@ -1,3 +1,6 @@
+<!-- Professional Gradient Header Frame -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18&height=110&section=header" width="100%" />
+
 ## 🌐 Socials
 
 <p align="center">
@@ -44,6 +47,9 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <sub>⚡ Designed with ❤️ by Isneha Chherki</sub>
-</p>
+  <br/><br/>
+  <!-- Matching Gradient Footer Frame -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18&height=70&section=footer" width="100%" />
+</div>
