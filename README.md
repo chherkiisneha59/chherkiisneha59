@@ -1,22 +1,4 @@
-<div align="center">
-
-  <!-- Hero Typing Header (No Name, Pure Engineering Focus) -->
-  <a href="https://github.com/chherkiisneha59">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=680&lines=%E2%9A%A1+Full-Stack+Software+Developer;%F0%9F%9A%80+Crafting+Scalable+Web+Experiences;%F0%9F%92%BB+React+%E2%80%A2+Node.js+%E2%80%A2+Modern+Databases;%F0%9F%94%A5+High-Performance+Architecture+%26+Clean+Code" alt="Developer Role Typing" />
-  </a>
-
-  <!-- Tech Focus Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-38B2AC?style=flat-square" alt="Focus" />
-    <img src="https://img.shields.io/badge/Frontend-React%20%E2%80%A2%20Tailwind-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
-    <img src="https://img.shields.io/badge/Backend-Node.js%20%E2%80%A2%20Cloud-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Backend" />
-  </p>
-
-</div>
-
----
-
-## 🌐 Connect & Network
+## 🌐 Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isneha-chherki-963375212/" target="_blank">
